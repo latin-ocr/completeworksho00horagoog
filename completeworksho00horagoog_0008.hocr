@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./completeworksho00horagoog_0008.png"; bbox 0 0 635 1077; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 129 359 464 379">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 129 359 464 379">
+     <span class='ocr_line' id='line_1_1' title="bbox 129 359 464 379; baseline 0 -1"><span class='ocrx_word' id='word_1_1' title='bbox 129 359 230 378; x_wconf 72' lang='lat' dir='ltr'>HARPER’S</span> <span class='ocrx_word' id='word_1_2' title='bbox 247 360 353 378; x_wconf 73' lang='lat' dir='ltr'>CLASSIGAL</span> <span class='ocrx_word' id='word_1_3' title='bbox 370 359 464 379; x_wconf 70' lang='lat' dir='ltr'><strong>mmmm.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 205 434 357 438">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 205 434 357 438">
+     <span class='ocr_line' id='line_1_2' title="bbox 205 434 357 438; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 205 434 357 438; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 46 492 546 531">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 46 492 546 531">
+     <span class='ocr_line' id='line_1_3' title="bbox 46 492 546 531; baseline 0.002 -9"><span class='ocrx_word' id='word_1_5' title='bbox 46 493 120 522; x_wconf 88' lang='lat' dir='ltr'>THE</span> <span class='ocrx_word' id='word_1_6' title='bbox 143 493 280 523; x_wconf 84' lang='lat' dir='ltr'>WORKS</span> <span class='ocrx_word' id='word_1_7' title='bbox 306 494 350 522; x_wconf 87' lang='lat' dir='ltr'>OF</span> <span class='ocrx_word' id='word_1_8' title='bbox 376 492 546 531; x_wconf 80' lang='lat' dir='ltr'>HORACE‚</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 104 572 426 589">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 104 572 426 589">
+     <span class='ocr_line' id='line_1_4' title="bbox 104 572 426 589; baseline -0.006 0"><span class='ocrx_word' id='word_1_9' title='bbox 104 587 107 589; x_wconf 70' lang='lat'><em>.</em></span> <span class='ocrx_word' id='word_1_10' title='bbox 171 572 299 588; x_wconf 74' lang='lat' dir='ltr'>TRANSLA&#39;OED</span> <span class='ocrx_word' id='word_1_11' title='bbox 305 574 307 576; x_wconf 68' lang='grc'><strong>“</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 313 572 426 587; x_wconf 72' lang='lat' dir='ltr'>IJTmALLY.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
